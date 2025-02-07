@@ -8,6 +8,7 @@ packages:
   gitUsername: karthikbm
   gitBranch: main
 - name: WmSalesforceProvider
+  version: 10.7.0.0.53
 services:
 - serviceName: project.man_kmat_feb7_extgit.integrations:KMAT_eGITtest_1
   packages:

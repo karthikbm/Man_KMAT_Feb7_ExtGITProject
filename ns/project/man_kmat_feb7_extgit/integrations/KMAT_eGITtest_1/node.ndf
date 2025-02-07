@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">karthik</value>
-    <value name="createdDate">1738934070754</value>
-    <value name="lastModifiedDate">1738934070754</value>
+    <value name="lastModifiedBy">karthik</value>
+    <value name="lastModifiedDate">1738934573574</value>
     <value name="displayName">KMAT_eGITtest_1</value>
     <value name="description"></value>
     <array name="appList" type="record" depth="1">
@@ -108,6 +107,8 @@
         </array>
         <array name="outputMap" type="object" depth="1" javaclass="java.lang.Object">
         </array>
+        <value name="nodePathForDebug">0</value>
+        <value name="connectionNSName">project.man_kmat_feb7_extgit.WmSalesforceProvider.com_softwareag_cloudstreams_salesforce_v53.connections:Feb7_2_SF_Basic_eGIT_KMAT</value>
       </record>
     </record>
   </record>

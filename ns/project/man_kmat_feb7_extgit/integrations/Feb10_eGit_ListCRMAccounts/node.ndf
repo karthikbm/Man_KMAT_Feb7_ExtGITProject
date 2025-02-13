@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">karthik</value>
-    <value name="createdDate">1739178307406</value>
-    <value name="lastModifiedDate">1739178307406</value>
+    <value name="lastModifiedBy">karthik</value>
+    <value name="lastModifiedDate">1739438057017</value>
     <value name="displayName">Feb10_eGit_ListCRMAccounts</value>
     <value name="description"></value>
     <array name="appList" type="record" depth="1">
@@ -112,6 +111,7 @@
         <value name="connectionNSName">project.man_kmat_feb7_extgit.WmSalesforceProvider.com_softwareag_cloudstreams_salesforce_v53.connections:Feb10_SF_Basic_DAF_ConnA</value>
         <value name="connectionType">sagcloud</value>
         <Boolean name="accountReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0</value>
       </record>
     </record>
   </record>
